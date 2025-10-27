@@ -25,6 +25,6 @@ It focuses on simplicity, real-time interaction, and an intuitive user experienc
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="public/images/image1.png" alt="InstaKilogram Screenshot 1" width="400" />
-  <img src="public/images/image2.png" alt="InstaKilogram Screenshot 2" width="400" />
+  <img src="public/image1.png" alt="InstaKilogram Screenshot 1" width="400" />
+  <img src="public/image2.png" alt="InstaKilogram Screenshot 2" width="400" />
 </div>
